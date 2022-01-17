@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b824efb2-a1d0-4553-bdd7-519977727fcd": {
+      "ProjectGuid": "b824efb2-a1d0-4553-bdd7-519977727fcd",
+      "DisplayName": "JsonWebToken-API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
